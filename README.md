@@ -1,5 +1,5 @@
 # Transportin
-Landing page which I created for my client. You can find some information about company, contact form, Google Maps and Facebook plugins.
+Landing page which I created for my client. You can find some information about company, contact form, Google Maps, Calendar and Facebook plugins.
 
 ![Algorithm schema](./images/img_github/transportin_screen_main.jpg)
 
@@ -12,3 +12,7 @@ Landing page which I created for my client. You can find some information about 
 * PHP 5.6
 * PHPMailer
 * Javascript
+* add SSL and deploy on cyber_folks server
+
+## Link
+See more at: https://transportin.pl/
