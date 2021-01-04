@@ -9,7 +9,7 @@
     <title>Transportin</title>
 
     <link rel="stylesheet" href="./css/style.min.css" rel=preload>
-    <link rel="stylesheet" href="./icons/font-awesome-4.7.0/css/font-awesome.min.css" rel=preload>
+    <link rel="stylesheet" href="./icons/font-awesome.min.css" rel=preload>
     <link rel="stylesheet" href="./css/bootstrap2.min.css">
     <link rel="stylesheet" href="./css/font.css">
     <script src="./javascript/fontawesomekit.js"></script>
