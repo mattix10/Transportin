@@ -12,7 +12,7 @@ Landing page which I created for my client. You can find some information about 
 * PHP 5.6
 * PHPMailer
 * Javascript
-* add SSL and deploy on cyber_folks server
+* deploy on server and add SSL
 
 ## Link
 See more at: https://transportin.pl/
